@@ -1,2 +1,2 @@
 # DS
-My first repository in github
+Ok my first repository in github
